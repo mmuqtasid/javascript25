@@ -48,3 +48,5 @@ console.log(typeof Company);
 let Nll = null;
 
 console.log(typeof Nll);
+
+
