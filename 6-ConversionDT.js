@@ -29,3 +29,11 @@ let someNumber = 33;
 let StringNumer = String (someNumber);
 console.log(StringNumer);
 console.log(typeof StringNumer)
+
+//More Exmple
+
+console.log(undefined < 0);
+console.log(undefined == null)
+console.log(undefined === null);
+console.log(null == 0 );
+
