@@ -11,6 +11,9 @@ console.log(blance.toFixed(2));
 const OtherNumer = 23.1122;
 console.log(OtherNumer.toPrecision(3))
 
+
+const Amount = 12003000;
+console.log(Amount.toLocaleString());
 //Math
 console.log(Math.max(2,4));
 console.log(Math.ceil(4.6));
