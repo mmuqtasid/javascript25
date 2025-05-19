@@ -11,4 +11,14 @@ console.log(typeof todayDate)
 let myTimeStamp = Date.now;
 console.log(myTimeStamp);
 
-console.log(Math.floor(myTimeStamp/1000));
+console.log(Math.floor(myTimeStamp/1000)); 
+
+
+
+
+
+
+
+
+
+
