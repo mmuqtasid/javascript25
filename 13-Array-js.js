@@ -18,3 +18,13 @@ ArrOne.shift();
 console.log(ArrOne);
 ArrOne.unshift();
 console.log(ArrOne);
+
+console.log(ArrOne.includes(4));
+
+const fruits = ["Banana", "Orange", "Apple", "Mango"];
+console.log(fruits.splice(2, 2));
+
+//Slice
+const fruitsOne = ["Banana", "Orange", "Lemon", "Apple", "Mango"];
+const citrus = fruits.slice(1, 3);
+console.log(citrus);
